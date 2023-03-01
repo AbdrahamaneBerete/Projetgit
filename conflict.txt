@@ -1,0 +1,2 @@
+"RING" 
+Git est un outil tres puissant.
